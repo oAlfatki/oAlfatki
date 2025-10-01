@@ -1,5 +1,5 @@
 
-## 🏆 About Me
+## 👨‍💻 About Me
 I am a software engineer passionate about developing efficient and practical systems. Throughout my journey, I have analyzed and designed around eight projects, in addition to building various small to medium-sized projects.
 
 My passion drives me to work with enthusiastic individuals who strive for a better future. I believe that being grounded in reality, having a passion for learning, and learning from mistakes are essential elements for personal and professional growth.
@@ -31,7 +31,7 @@ If you have similar ideas or projects, feel free to connect—I would love to cr
 | **Life Management System**      | System for manage My Life Plans, Goals, Habits, Tasks, Reports, Life Sides (Spirtuial,Social,Health,Finanance              |C#, .Net Core, Windows forms, SQL Server, T-SQL, ADO.NET              |
 | **Student Management System**| System for manage students                                        | · SQL Server · ADO.NET    |
 | **DVLD System**     | Desktop system for license/vehicle management with a layered secure architecture    | WinForms · .NET Framework · SQL Server, T-SQL |
-| **Bank Management Systme**     | Desktop system for license/vehicle management with a layered secure architecture    | WinForms · .NET Framework · SQL Server |
+| **Bank Management Systme**     | A Bank Management System includes features for managing clients, users, transactions, login records, and currency exchange operations.  | WinForms · .NET Framework · SQL Server |
 
 ## Skills
 Problem Solving, Startegic Thinking, Team Player, Time Management.
