@@ -30,5 +30,8 @@ If you have similar ideas or projects, feel free to connect—I would love to cr
 |---------------------|-------------------------------------------------------------------------------------|----------------------------------------|
 | **Life Management System**      | System for manage My Life Plans, Goals, Habits, Tasks, Reports, Life Sides (Spirtuial,Social,Health,Finanance              |C#, .Net Core, Windows forms, SQL Server, T-SQL, ADO.NET              |
 | **Student Management System**| System for manage students                                        | · SQL Server · ADO.NET    |
-| **DVLD System**     | Desktop system for license/vehicle management with a layered secure architecture    | WinForms · .NET Framework · SQL Server |
+| **DVLD System**     | Desktop system for license/vehicle management with a layered secure architecture    | WinForms · .NET Framework · SQL Server, T-SQL |
 | **Bank Management Systme**     | Desktop system for license/vehicle management with a layered secure architecture    | WinForms · .NET Framework · SQL Server |
+
+## Skills
+Problem Solving, Startegic Thinking, Team Player, Time Management.
