@@ -33,5 +33,5 @@ If you have similar ideas or projects, feel free to connect—I would love to cr
 | **DVLD System**     | Desktop system for license/vehicle management with a layered secure architecture    | WinForms · .NET Framework · SQL Server, T-SQL |
 | **Bank Management Systme**     | A Bank Management System includes features for managing clients, users, transactions, login records, and currency exchange operations.  | WinForms · .NET Framework · SQL Server |
 
-## Skills
+## ✨ Skills
 Problem Solving, Startegic Thinking, Team Player, Time Management.
