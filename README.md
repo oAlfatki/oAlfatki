@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=90&duration=4000&color=00BFFF&lines=Hi+There!+👋;+I'm+Osamah+Alfatki!+⚙️;+Software+Enginner+;+Full+Stack+Desktop+Developer(C#,T-SQl)+;+Backend+.NET+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=90&duration=4000&color=00BFFF&lines=Hi+There!+👋;+I'm+Osamah+Alfatki!+⚙️;+Software+Enginner+;+Full+Stack+Desktop+Developer(C+#+,+T+-+SQL+)+;+Backend+.NET+Developer;" />
 
   <br/>
 
