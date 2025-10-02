@@ -4,7 +4,7 @@
 
   <br/>
 
-  <h1>⚙️ Mohammed Saif </h1>
+  <h1>⚙️ Osamah Alfatki </h1>
   <p>
     <a href="mailto:osamahabdulwaseaalfatki@mail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
@@ -64,9 +64,9 @@ If you have similar ideas or projects, feel free to connect—I would love to cr
 | Project             | Description                                                                         | Tech Stack                            |
 |---------------------|-------------------------------------------------------------------------------------|----------------------------------------|
 | **Life Management System**      | System for manage My Life Plans, Goals, Habits, Tasks, Reports, Life Sides (Spirtuial,Social,Health,Finanance              |C#, .Net Core, Windows forms, SQL Server, T-SQL, ADO.NET              |
-| **Student Management System**| System for manage students                                        | · SQL Server · ADO.NET    |
-| **DVLD System**     | Desktop system for license/vehicle management with a layered secure architecture    | WinForms · .NET Framework · SQL Server, T-SQL |
-| **Bank Management Systme**     | A Bank Management System includes features for managing clients, users, transactions, login records, and currency exchange operations.  | WinForms · .NET Framework · SQL Server |
+| **Student Management System**| System for manage students                                        |  SQL Server, ADO.NET, Net Core, RESTful API   |
+| **DVLD System**     | Desktop system for license/vehicle management with a layered secure architecture    | WinForms , NET Framework , SQL Server, T-SQL |
+| **Bank Management Systme**     | A Bank Management System includes features for managing clients, users, transactions, login records, and currency exchange operations.  |C++, Files System |
 
 ## ✨ Skills
 Problem Solving, Startegic Thinking, Team Player, Time Management.
