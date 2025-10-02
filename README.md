@@ -1,14 +1,10 @@
-@@ -1,96 +1,103 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&width=430&lines=Backend+.NET+Developer;Crafting+Scalable+Systems+with+Clean+Code+%F0%9F%92%A1" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=90&duration=4000&color=00BFFF&lines=Hi+There!+👋;+I'm+Osamah+Alfatki!+⚙️;+Backend+.NET+Developer+from+Yemen" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=90&duration=4000&color=00BFFF&lines=Hi+There!+👋;+I'm+Osamah+Alfatki!+⚙️;+Software+Enginner+;+Full+Stack+Desktop+Developer(C#,T-SQl)+;+Backend+.NET+Developer;" />
 
-<br/>
   <br/>
 
-<h1>⚙️ Osamah Alfatki</h1>
-  <h1>⚙️ Osamah Alfatki </h1>
+  <h1>⚙️ Mohammed Saif </h1>
   <p>
     <a href="mailto:osamahabdulwaseaalfatki@mail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
@@ -24,34 +20,20 @@
     </a>
   </p>
 
-<p>
-  <a href="mailto:osamahabdulwaseaalfatki@mail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/oAlfatki">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://dev.to/OsamahAlfatki">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" alt="Dev.to"/>
-  </a>
-  <a href="https://t.me/oAlfatki">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</p>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=oAlfatki&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/oAlfatki?label=Follow&style=flat-square&color=blue" alt="GitHub Followers"/>
 
   <img src="https://komarev.com/ghpvc/?username=oAlfatki&color=00BFFF" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/oAlfatki?label=Follow&style=flat-square&color=00BFFF" alt="GitHub Followers"/>
 
 </div>
 
----
 <div align="center">
   <img src="https://raw.githubusercontent.com/OsamahAlfatki-assets/github-readme-gifs/main/starline-blue.gif" width="100%" alt="Blue Stars"/>
 </div>
 
+     
+ 
+ 
 ## 👨‍💻 About Me
 I am a software engineer passionate about developing efficient and practical systems. Throughout my journey, I have analyzed and designed around eight projects, in addition to building various small to medium-sized projects.
 
